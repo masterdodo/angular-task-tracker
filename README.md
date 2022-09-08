@@ -1,4 +1,10 @@
-# AngularTaskTracker
+# Angular Task Tracker App
+
+Example Angular application.
+
+Source: https://www.youtube.com/watch?v=3dHNOWTI7H8
+
+![Angular Task Tracker Image](repo-img.png "App Image")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
